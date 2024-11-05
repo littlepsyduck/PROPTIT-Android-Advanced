@@ -36,11 +36,6 @@
   - [V. Launch, async, await](#v-launch-async-await)
     - [1. Launch](#1-launch)
     - [2. Async](#2-async)
-  - [I. Lập trình bất đồng bộ](#i-lập-trình-bất-đồng-bộ-1)
-  - [II. Các kỹ thuật lập trình bất đồng bộ](#ii-các-kỹ-thuật-lập-trình-bất-đồng-bộ)
-  - [III. Blocking và Function](#iii-blocking-và-function-1)
-  - [IV. Coroutine scope, Job, Dispatcher](#iv-coroutine-scope-job-dispatcher-1)
-  - [V. Launch, async, await](#v-launch-async-await-1)
 
 ## I. Lập trình bất đồng bộ
 
@@ -524,28 +519,3 @@ fun main() = runBlocking {
     println("Kết quả nhận được: $result")
 }
 ```
-=======
-  - [II. Các kỹ thuật lập trình bất đồng bộ](#ii-các-kỹ-thuật-lập-trình-bất-đồng-bộ)
-  - [III. Blocking và Function](#iii-blocking-và-function)
-  - [IV. Coroutine scope, Job, Dispatcher](#iv-coroutine-scope-job-dispatcher)
-  - [V. Launch, async, await](#v-launch-async-await)
-
-## I. Lập trình bất đồng bộ
-
-
-
-## II. Các kỹ thuật lập trình bất đồng bộ
-
-
-
-## III. Blocking và Function
-
-
-
-## IV. Coroutine scope, Job, Dispatcher
-
-
-
-## V. Launch, async, await
-
->>>>>>> dc98ce8a631d59728390fa1f09e56f1905c10ad5
