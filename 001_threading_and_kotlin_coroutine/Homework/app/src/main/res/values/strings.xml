@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">016_flow</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Hello_Title">Hi</string>
+    <string name="hello_time">Good Morning</string>
+    <string name="query_hint">Search Note</string>
+    <string name="total_count">adad</string>
+</resources>
