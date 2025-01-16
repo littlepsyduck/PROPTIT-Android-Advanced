@@ -1,5 +1,4 @@
 :memo: <span style="color:orange">ANDROID_ADVANCED_005_ARCHITECTURE</span>
-
 # ARCHITECTURE
 
 ![Picture 1](p2.png)
